@@ -4,6 +4,8 @@ This is a custom JSON map for a [13x15 lamb-shaped LED display](https://foley.wo
 # B-A-A-A-A-A-H
 
 ![Lil' Lamb guts](https://foley.works/images/lil-lamb-guts.jpg)
+![Lil' Lamb guts](https://foley.works/images/lil-lamb-back.jpg)
+
 
 
 
